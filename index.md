@@ -293,10 +293,10 @@ for more information.
 <h2 id="pre_workshop_survey">Surveys</h2>
 
 <p>
-  Before attending the workshop, please fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a>.
+  Before attending the workshop, please fill out <a href="{{ site.instructor_pre_survey }}2021-02-16-ttt-online-SI">our pre-training survey</a>.
 </p>
 
 
 <p>
-  After the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">our post-training survey</a>.
+  After the workshop, please fill out <a href="{{ site.instructor_post_survey }}2021-02-16-ttt-online-SI">our post-training survey</a>.
 </p>
