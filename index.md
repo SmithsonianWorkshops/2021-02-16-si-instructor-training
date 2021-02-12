@@ -218,52 +218,140 @@ for more information.
 </p>
 
 
-<hr/>
-
-<!--
-
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Day 1 (Tuesday)</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:25</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:25</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:10</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:30</td> <td>Lunch </td> </tr>
-      <tr> <td>13:30</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:45</td> <td>Mindset </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:40</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
-      <tr> <td>17:00</td> <td>Finish </td> </tr>
+      <tr>
+        <td>1:00</td>
+        <td><a href="https://carpentries.github.io/instructor-training/01-welcome/index.html" target="_blank">Welcome</a></td>
+      </tr>
+      <tr>
+        <td>1:25</td>
+        <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html" target="_blank">Building Skill With Practice</a></td>
+      </tr>
+      <tr>
+        <td>2:25</td>
+        <td><a href="https://carpentries.github.io/instructor-training/03-expertise/index.html" target="_blank">Expertise and Instruction<a/></td>
+      </tr>
+      <tr>
+        <td>3:10</td>
+        <td>Break</td>
+      </tr>
+      <tr>
+        <td>3:25</td>
+        <td><a href="https://carpentries.github.io/instructor-training/05-memory/index.html" target="_blank">Memory and Cognitive Load<a/></td>
+      </tr>
+      <tr>
+        <td>4:10</td>
+        <td><a href="https://carpentries.github.io/instructor-training/06-feedback/index.html" target="_blank">Building Skill With Feedback<a/></td>
+      </tr>      
+      <tr>
+        <td>4:30</td>
+        <td>Recap</td>
+      </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2</h3>
+    <h3>Day 2 (Wednesday)</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>10:20</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>12:10</td> <td>Managing a Diverse Classroom </td> </tr>
-      <tr> <td>12:40</td> <td>Lunch </td> </tr>
-      <tr> <td>13:40</td> <td>Checkout Process </td> </tr>
-      <tr> <td>13:55</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:10</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:25</td> <td>Workshop Introductions </td> </tr>
-      <tr> <td>16:05</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:25</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:40</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>16:55</td> <td>Finish </td> </tr>
+      <tr>
+        <td>1:00</td>
+        <td><a href="https://carpentries.github.io/instructor-training/08-motivation/index.html" target="_blank">Motivation and Demotivation<a/></td>
+      </tr>
+      <tr>
+        <td>2:15</td>
+        <td><a href="https://carpentries.github.io/instructor-training/09-mindset/index.html" target="_blank">Mindset<a/></td>
+      </tr>
+      <tr>
+        <td>2:45</td>
+        <td>Break</td>
+      </tr>
+      <tr>
+        <td>3:00</td>
+        <td><a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html" target="_blank">Teaching is a Skill<a/></td>
+      </tr>
+      <tr>
+        <td>4:10</td>
+        <td><a href="https://carpentries.github.io/instructor-training/12-homework/index.html" target="_blank">Wrap-Up and Homework for Tomorrow<a/></td>
+      </tr>
+      <tr>
+        <td>5:00</td>
+        <td>END</td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 3 (Thursday)</h3>
+    <table class="table table-striped">
+      <tr>
+        <td>1:00</td>
+        <td><a href="https://carpentries.github.io/instructor-training/13-second-welcome/index.html" target="_blank">Welcome Back</a></td>
+      </tr>
+      <tr>
+        <td>1:10</td>
+        <td><a href="https://carpentries.github.io/instructor-training/14-live/index.html" target="_blank">Live Coding is a Skill</a></td>
+      </tr>
+      <tr>
+        <td>2:20</td>
+        <td><a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html" target="_blank">Preparing to Teach<a/></td>
+      </tr>
+      <tr>
+        <td>3:10</td>
+        <td>Break</td>
+      </tr>
+      <tr>
+        <td>3:25</td>
+        <td><a href="https://carpentries.github.io/instructor-training/17-performance/index.html" target="_blank">More Practice Live Coding </a></td>
+      </tr>
+      <tr>
+        <td>4:10</td>
+        <td><a href="https://carpentries.github.io/instructor-training/18-management/index.html" target="_blank">Managing a Diverse Classroom</a></td>
+      </tr>      
+      <tr>
+        <td>4:40</td>
+        <td>Recap</td>
+      </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 4 (Friday)</h3>
+    <table class="table table-striped">
+      <tr>
+        <td>1:00</td>
+        <td><a href="https://carpentries.github.io/instructor-training/20-checkout/index.html" target="_blank">Checkout Process</a></td>
+      </tr>
+      <tr>
+        <td>1:15</td>
+        <td><a href="https://carpentries.github.io/instructor-training/21-carpentries/index.html" target="_blank">The Carpentries: How We Operate</a></td>
+      </tr>
+      <tr>
+        <td>2:30</td>
+        <td>Break</td>
+      </tr>      
+      <tr>
+        <td>2:45</td>
+        <td><a href="https://carpentries.github.io/instructor-training/23-introductions/index.html" target="_blank">Workshop Introductions</a></td>
+      </tr>
+      <tr>
+        <td>3:25</td>
+        <td><a href="https://carpentries.github.io/instructor-training/24-practices/index.html" target="_blank">Putting It Together</a></td>
+      </tr>
+      <tr>
+        <td>3:40</td>
+        <td><a href="https://carpentries.github.io/instructor-training/25-wrap-up/index.html" target="_blank">Wrapping Up</a></td>
+      </tr>      
+      <tr>
+        <td>4:00</td>
+        <td>HAPPY HOUR</td>
+      </tr>
     </table>
   </div>
 </div>
 
--->
+<hr/>
 
 <!--
   ETHERPAD
