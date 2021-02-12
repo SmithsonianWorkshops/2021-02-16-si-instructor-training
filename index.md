@@ -232,7 +232,7 @@ for more information.
       </tr>
       <tr>
         <td>2:25</td>
-        <td><a href="https://carpentries.github.io/instructor-training/03-expertise/index.html" target="_blank">Expertise and Instruction<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/03-expertise/index.html" target="_blank">Expertise and Instruction</a></td>
       </tr>
       <tr>
         <td>3:10</td>
@@ -240,11 +240,11 @@ for more information.
       </tr>
       <tr>
         <td>3:25</td>
-        <td><a href="https://carpentries.github.io/instructor-training/05-memory/index.html" target="_blank">Memory and Cognitive Load<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/05-memory/index.html" target="_blank">Memory and Cognitive Load</a></td>
       </tr>
       <tr>
         <td>4:10</td>
-        <td><a href="https://carpentries.github.io/instructor-training/06-feedback/index.html" target="_blank">Building Skill With Feedback<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/06-feedback/index.html" target="_blank">Building Skill With Feedback</a></td>
       </tr>      
       <tr>
         <td>4:30</td>
@@ -257,11 +257,11 @@ for more information.
     <table class="table table-striped">
       <tr>
         <td>1:00</td>
-        <td><a href="https://carpentries.github.io/instructor-training/08-motivation/index.html" target="_blank">Motivation and Demotivation<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/08-motivation/index.html" target="_blank">Motivation and Demotivation</a></td>
       </tr>
       <tr>
         <td>2:15</td>
-        <td><a href="https://carpentries.github.io/instructor-training/09-mindset/index.html" target="_blank">Mindset<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/09-mindset/index.html" target="_blank">Mindset</a></td>
       </tr>
       <tr>
         <td>2:45</td>
@@ -269,11 +269,11 @@ for more information.
       </tr>
       <tr>
         <td>3:00</td>
-        <td><a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html" target="_blank">Teaching is a Skill<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html" target="_blank">Teaching is a Skill</a></td>
       </tr>
       <tr>
         <td>4:10</td>
-        <td><a href="https://carpentries.github.io/instructor-training/12-homework/index.html" target="_blank">Wrap-Up and Homework for Tomorrow<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/12-homework/index.html" target="_blank">Wrap-Up and Homework for Tomorrow</a></td>
       </tr>
       <tr>
         <td>5:00</td>
@@ -296,7 +296,7 @@ for more information.
       </tr>
       <tr>
         <td>2:20</td>
-        <td><a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html" target="_blank">Preparing to Teach<a/></td>
+        <td><a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html" target="_blank">Preparing to Teach</a></td>
       </tr>
       <tr>
         <td>3:10</td>
