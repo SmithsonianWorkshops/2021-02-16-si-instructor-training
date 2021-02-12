@@ -211,13 +211,7 @@ for more information.
 
 <hr/>
 
-<h2 id="materials" name="materials">Training Materials and Schedule</h2>
-
-<p>
-  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
-</p>
-
-
+<h2 id="schedule" name="schedule">Schedule</h2>
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1 (Tuesday)</h3>
